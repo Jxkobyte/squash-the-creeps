@@ -1,4 +1,5 @@
-How to run the game
+**How to run the game**
+
 Download Godot Engine: https://godotengine.org/
 
 Click the my-first-2d-game.zip
